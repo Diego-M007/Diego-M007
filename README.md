@@ -19,7 +19,7 @@
 
 ### 📊 Estatísticas GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diego-M007O&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diego-M007&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-M007&layout=compact&theme=tokyonight" />
 </p>
 
